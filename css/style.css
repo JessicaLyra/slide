@@ -1,0 +1,35 @@
+body {
+	font-family: 'Inter', sans-serif;
+	color: hsl(240, 38%, 20%);
+	font-size:32px;
+	font-weight: 300;
+}
+.linha {
+	padding:100px;
+}
+.coluna-1 {
+	background: url(../img/pattern-quotes.svg) no-repeat;
+	
+}	
+
+.coluna-1 #comentario {
+	padding-top:200px;
+}
+
+.coluna-1 #legenda {
+	font-weight: 700;
+	}
+.coluna-1 #sub-legenda {
+	color:hsl(240, 18%, 77%);
+	font-weight: 500;
+	padding-bottom:200px;
+}
+.coluna-2 {
+	background: url(../img/pattern-bg.svg) no-repeat;
+	background-size:100%;
+	padding:70px;
+}
+
+.coluna-2 img {
+	width: :200px;
+}
